@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MJVideoPlayer_Example' do
+  pod 'MJVideoPlayer', :path => '../'
+
+  target 'MJVideoPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
