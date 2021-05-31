@@ -61,12 +61,12 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		97FE85B8BFAB2E22C16C3A59 /* MJVideoPlayer.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MJVideoPlayer.podspec; path = ../MJVideoPlayer.podspec; sourceTree = "<group>"; };
-		9BD032C65B0661C3C0A3F8DE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		97FE85B8BFAB2E22C16C3A59 /* MJVideoPlayer.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MJVideoPlayer.podspec; path = ../MJVideoPlayer.podspec; sourceTree = "<group>"; };
+		9BD032C65B0661C3C0A3F8DE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9C3CBA0238CF5063500767D5 /* Pods_MJVideoPlayer_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MJVideoPlayer_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CD879A3DE6AEA203E44C4B9 /* Pods-MJVideoPlayer_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MJVideoPlayer_Example.release.xcconfig"; path = "Target Support Files/Pods-MJVideoPlayer_Example/Pods-MJVideoPlayer_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B380860F20B644BB76FEDF81 /* Pods_MJVideoPlayer_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MJVideoPlayer_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B7E9B704168AB63489ED3F0E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B7E9B704168AB63489ED3F0E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +103,6 @@
 				3519E0EA320DCC663772379A /* Pods-MJVideoPlayer_Tests.debug.xcconfig */,
 				1DCFD44D9B9ECC86E39ED198 /* Pods-MJVideoPlayer_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

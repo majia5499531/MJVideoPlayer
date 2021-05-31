@@ -1,0 +1,22 @@
+{
+  "name": "MJVideoPlayer",
+  "version": "0.1.0",
+  "summary": "A short description of MJVideoPlayer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/majia5499531@163.com/MJVideoPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "majia5499531@163.com": "5307460+azbura@user.noreply.gitee.com"
+  },
+  "source": {
+    "git": "https://github.com/majia5499531@163.com/MJVideoPlayer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MJVideoPlayer/Classes/**/*"
+}

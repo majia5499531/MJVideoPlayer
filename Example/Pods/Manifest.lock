@@ -1,0 +1,16 @@
+PODS:
+  - MJVideoPlayer (0.1.0)
+
+DEPENDENCIES:
+  - MJVideoPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  MJVideoPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJVideoPlayer: 4639ac388e69116923fdbe9f26aca969d0dd4221
+
+PODFILE CHECKSUM: af0032029ad63c6ff51c42f90b29135f8f01d8a5
+
+COCOAPODS: 1.10.1

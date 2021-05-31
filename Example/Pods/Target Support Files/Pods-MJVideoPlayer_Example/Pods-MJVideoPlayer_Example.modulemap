@@ -1,0 +1,6 @@
+framework module Pods_MJVideoPlayer_Example {
+  umbrella header "Pods-MJVideoPlayer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

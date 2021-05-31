@@ -1,0 +1,6 @@
+framework module MJVideoPlayer {
+  umbrella header "MJVideoPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
